@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.bak
+test_structured_restaurant_data.json
+.ipynb_checkpoints/
+recipe_images/
+synthetic-recipe-images.zip
